@@ -1,4 +1,4 @@
-# Scrape Dat
+# Scrape Data
 
 A versatile web scraping tool that extracts structured data from websites through an intuitive web interface.
 
