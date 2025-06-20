@@ -74,6 +74,12 @@ scrape-dat --help
    - Meta information from `<meta>` tags
 4. The extracted data is presented in a structured format
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/c4bb8f39-3a26-4fa1-a47c-c7a40009dbfa)
+
+![Screenshot 2025-06-20 105252](https://github.com/user-attachments/assets/b7c70aa8-1c70-4a20-9b33-c1c6f6e18638)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
